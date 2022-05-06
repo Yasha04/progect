@@ -20,6 +20,6 @@ const numberFiles = +prompt('Сколько фильмов вы уже посм�
            b = prompt('На сколько вы его оцениваете','');
          
    personalMovieDB.movies[a]= b;
-   console.log(personalMovieDB);
+   console.log(personalMovieDB)
 
 
