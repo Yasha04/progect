@@ -13,7 +13,7 @@ const numberFiles = +prompt('Сколько фильмов вы уже посм�
      actors:{},
      geners:[],
      privat: false
- };
+ }
 
 
      const a = 'kjufy',
