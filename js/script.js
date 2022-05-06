@@ -12,7 +12,7 @@ const numberFiles = +prompt('Сколько фильмов вы уже посм�
      movies:{},
      actors:{},
      geners:[],
-     privat: false4
+     privat: false
  };
 
 
